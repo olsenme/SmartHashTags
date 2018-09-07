@@ -15,6 +15,15 @@ We used Java,sqLite,and Microsoft Computer Vision API.
 
 # Requirements
 
-
+<ul>
+  <li>The user will be able to take a photo from within the app or choose a photo from their photo library.</li>
+  <li>If they don't like the photo, they may go back and retake before the hashtags are generated.</li>
+  <li>The image will be analyzed and tagged by Microsoft Computer Vision API.</li>
+  <li>The tags will be formatted and displayed to the user.</li>
+  <li>The user will be able to copy the hashtags to a social media post.</li>
+  <li>The app will store the history of previously created hashtags in a sqLite database.</li>
+  <li>The app will include a "Splash" screen with a simple graphic in the background and the name of the app.</li>
+  <li>The splash screen will exit to the home page of the application automatically after a few seconds.</li>
+</ul>
 
 
